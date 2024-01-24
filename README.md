@@ -1,2 +1,2 @@
-# Django2
- Actividad 2
+# Python excercise
+ Actividad 1
